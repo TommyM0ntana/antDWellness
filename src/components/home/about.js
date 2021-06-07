@@ -1,7 +1,5 @@
 import React from "react";
 
-import { Row, Col } from "antd";
-
 function AppAbout() {
   return (
     <div id="about" className="block aboutBlock">
